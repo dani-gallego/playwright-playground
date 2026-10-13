@@ -1,0 +1,11 @@
+Email,Phone,Username,Password,Comments
+test@example.com,987654321,TestOne,Password123!,Training
+juan.pedro@example.com,912345678,TestTwo,JuanTest456!,Sample registration
+maria.santos@example.com,923456789,TestThree,MariaTest789!,Second test user
+jose.reyes@example.com,934567890,TestFour,JoseTest321!,Valid registration
+ana.cruz@example.com,945678901,TestFive,AnaTest654!,Registration test
+mark.garcia@example.com,956789012,TestSix,MarkTest987!,Automation testing
+sofia.mendoza@example.com,967890123,TestSeven,SofiaTest234!,Playwright practice
+daniel.flores@example.com,978901234,TestEight,DanielTest567!,Form validation
+isabella.ramos@example.com,989012345,TestNine,IsabellaTest890!,Test scenario
+miguel.torres@example.com,990123456,TestTen,MiguelTest432!,Training data

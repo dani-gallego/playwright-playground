@@ -1,0 +1,11 @@
+StartDate,InsuranceSum,DamageInsurance,MeritRating,OptionalProduct,CourtesyCar
+1/1/2027,"3.000.000,00",No Coverage,Super Bonus,"Euro Protection,Legal Defense Insurance",No
+2/15/2027,"5.000.000,00",Full Coverage,Bonus,"Euro Protection",Yes
+3/10/2027,"2.500.000,00",No Coverage,Malus,"Legal Defense Insurance",No
+4/20/2027,"7.500.000,00",Full Coverage,Super Bonus,"Euro Protection,Legal Defense Insurance",Yes
+5/5/2027,"1.000.000,00",Partial Coverage,Bonus,"",No
+6/12/2027,"4.000.000,00",Full Coverage,Malus,"Euro Protection",Yes
+7/1/2027,"3.500.000,00",Partial Coverage,Super Bonus,"Legal Defense Insurance",No
+8/18/2027,"6.000.000,00",No Coverage,Bonus,"Euro Protection,Legal Defense Insurance",Yes
+9/25/2027,"2.000.000,00",Full Coverage,Malus,"",No
+10/10/2027,"8.000.000,00",Partial Coverage,Super Bonus,"Euro Protection",Yes
