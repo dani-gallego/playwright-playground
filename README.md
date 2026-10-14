@@ -107,4 +107,8 @@ Run a specific test file:
 
 ```bash
 npx playwright test tests/vehicle_insurance.spec.ts
+<<<<<<< HEAD
 ```
+=======
+```
+>>>>>>> d5e3a9d230a1e1c958541d0282b59d62589033a4
