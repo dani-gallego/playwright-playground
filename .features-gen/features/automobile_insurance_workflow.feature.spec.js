@@ -1,5 +1,5 @@
 // Generated from: features\automobile_insurance_workflow.feature
-import { test } from "../../steps/fixtures.ts";
+import { test } from "../../Steps/fixtures.ts";
 
 test.describe('Get an automobile insurance quote', () => {
 
