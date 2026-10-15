@@ -17,7 +17,7 @@ export default defineConfig({
 
   use: {
     browserName: 'chromium',
-    headless: false,
+    headless: !!process.env.CI,
   },
 
   projects: [
