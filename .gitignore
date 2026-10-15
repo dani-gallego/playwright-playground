@@ -10,3 +10,4 @@ node_modules/
 
 # Report output (allure-results, allure-report, playwright-report)
 Reports/
+.features-gen/
