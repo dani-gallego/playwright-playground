@@ -2,7 +2,7 @@ import { defineConfig } from '@playwright/test';
 import { defineBddConfig } from 'playwright-bdd';
 
 const bddTestDir = defineBddConfig({
-  features: 'features/*.feature',
+  features: 'Features/*.feature',
   steps: 'steps/*.ts',
 });
 
@@ -17,7 +17,7 @@ export default defineConfig({
 
   use: {
     browserName: 'chromium',
-    headless: false,
+    headless: !!process.env.CI,
   },
 
   projects: [
